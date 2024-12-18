@@ -48,7 +48,7 @@ params:
           enabled: true
           title: Ameer Helmi
           subtitle: "I am a person who does things."
-          imageUrl: "picture.jpeg"
+          imageUrl: "IMG_7105.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
