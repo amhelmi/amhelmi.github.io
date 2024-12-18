@@ -6,6 +6,28 @@
     <description>Recent content in Papers on Ameer Helmi</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="amhelmi.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pilot Observations of an Autonomous Red Light, Green Light Robot for Interactions with Children with Disabilities</title>
+      <link>amhelmi.github.io/papers/hri2024/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>amhelmi.github.io/papers/hri2024/</guid>
+      <description>Describes the design and initial testing of the red light, green light mode for GoBot.</description>
+    </item>
+    <item>
+      <title>Harnessing the Power of Movement: A Body-Weight Support System &amp; Assistive Robot Case Study</title>
+      <link>amhelmi.github.io/papers/icorr2023/</link>
+      <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>amhelmi.github.io/papers/icorr2023/</guid>
+      <description>Describes the case study conducted with GoBot, Shelbytron, and the Body-Weight-Support-Harness.</description>
+    </item>
+    <item>
+      <title>Let Them Have Bubbles! Filling Gaps in Toy-Like Behaviors for Child-Robot Interaction</title>
+      <link>amhelmi.github.io/papers/icra2022/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>amhelmi.github.io/papers/icra2022/</guid>
+      <description>Describes a review of Fisher-Price toys for developmental capabilities and an analysis of an initial child-robot interaction study.</description>
+    </item>
   </channel>
 </rss>
