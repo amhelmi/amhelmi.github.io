@@ -16,9 +16,6 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
-        - name: Data
-          url: data/
-          weight: 4 
 
 params:
     description: "I am a person who does things."
@@ -36,7 +33,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["projects","papers","data"]
+    MainSections: ["projects","papers"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -48,7 +45,7 @@ params:
           enabled: true
           title: Ameer Helmi
           subtitle: "I am a person who does things."
-          imageUrl: "IMG_7105.jpeg"
+          imageUrl: "IMG_7105.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
