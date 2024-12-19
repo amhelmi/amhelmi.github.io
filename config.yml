@@ -16,9 +16,11 @@ menu:
         - name: Papers
           url: papers/
           weight: 2
+        - name: Epic
+          url: epic/
+          weight: 2
 
 params:
-    description: "I am a person who does things."
     author: Ameer Helmi
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,7 +46,15 @@ params:
     profileMode:
           enabled: true
           title: Ameer Helmi, Ph.D.
-          subtitle: "I am a person who does things."
+          subtitle: "Roboticist and Healthcare Specialist with extensive experience in 
+          human-robot interaction, robot design, customer service, and Epic EMR build.
+
+          
+          Doctorate in Robotics from Oregon State University with 5+ years of robot design experience.
+          additional 5+ years of experience working with Epic Beaker software and laboratory workflow build.
+          
+          
+          Please contact me at [ameer.helmi@gmail.com](mailto:ameer.helmi@gmail.com) if you would like to connect."
           imageUrl: "IMG_7105.jpg"
           imageWidth: 150
           imageHeight: 175
@@ -53,10 +63,13 @@ params:
               url: papers/
             - name: Projects
               url: projects/
+            - name: Epic
+              url: epic/
             - name: Resume
               url: AmeerHelmi_Resume.pdf
             - name: Curriculum Vitae
               url: AmeerHelmi_CV.pdf
+
 
     socialIcons:
         - name: Email

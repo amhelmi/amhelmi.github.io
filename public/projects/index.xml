@@ -12,7 +12,14 @@
       <link>//localhost:1313/projects/behavior-trees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/projects/behavior-trees/</guid>
-      <description>Describes the design and initial testing of the red light, green light mode for GoBot.</description>
+      <description>Behavior Trees for Robot Control and Child Behavior Modeling.</description>
+    </item>
+    <item>
+      <title>Gardening Automation</title>
+      <link>//localhost:1313/projects/gardening-automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/gardening-automation/</guid>
+      <description>Sensing and Automation of Plant Watering.</description>
     </item>
     <item>
       <title>GoBot: Modular Hardware, Variable Autonomy, Promoting Physical Activity</title>
@@ -33,7 +40,7 @@
       <link>//localhost:1313/projects/thermal-imaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/projects/thermal-imaging/</guid>
-      <description>Describes the design and initial testing of the red light, green light mode for GoBot.</description>
+      <description>Gauging child affect through thermal imaging.</description>
     </item>
   </channel>
 </rss>

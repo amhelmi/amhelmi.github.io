@@ -5,22 +5,10 @@
     <loc>//localhost:1313/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/mad-libs/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/projects/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/projects/thermal-imaging/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/papers/icsr2024/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/papers/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/projects/behavior-trees/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/papers/jtehm2023/</loc>
@@ -41,8 +29,20 @@
     <loc>//localhost:1313/papers/icra2022/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/projects/behavior-trees/</loc>
+  </url><url>
+    <loc>//localhost:1313/epic/</loc>
+  </url><url>
+    <loc>//localhost:1313/projects/gardening-automation/</loc>
+  </url><url>
     <loc>//localhost:1313/projects/gobot/</loc>
   </url><url>
+    <loc>//localhost:1313/projects/mad-libs/</loc>
+  </url><url>
+    <loc>//localhost:1313/projects/</loc>
+  </url><url>
     <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/projects/thermal-imaging/</loc>
   </url>
 </urlset>

@@ -1,7 +1,11 @@
 ---
 title: "Behavior Trees for Child-Robot Interaction" 
-description: "Describes the design and initial testing of the red light, green light mode for GoBot." 
-summary: "Describes the design and initial testing of the red light, green light mode for GoBot." 
+description: "Behavior Trees for Robot Control and Child Behavior Modeling." 
+summary: "Behavior Trees for Robot Control and Child Behavior Modeling." 
+cover:
+    image: "coverbt.png"
+    alt: "BTs"
+    relative: false
 
 ---
 
@@ -15,11 +19,8 @@ add images/videos
 
 ---
 
-<!-- ##### Download
-
-+ [Paper](paper1.pdf)
-+ [Presentation](HRI_2024_LBR_RLGL_deployment.mp4)
-+ [Poster](HRI_LBR_RLGL_Poster.pdf) -->
++ [Modeling Github](https://github.com/shareresearchteam/infant_simulation_behavior_trees)
++ [Autonomous Behavior Github]()
 
 ---
 
