@@ -22,7 +22,7 @@ params:
     author: Ameer Helmi
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
@@ -43,11 +43,11 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Ameer Helmi
+          title: Ameer Helmi, Ph.D.
           subtitle: "I am a person who does things."
           imageUrl: "IMG_7105.jpg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 150
+          imageHeight: 175
           buttons:
             - name: Papers
               url: papers/

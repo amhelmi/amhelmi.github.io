@@ -1,6 +1,6 @@
 ---
 title: "Pilot Observations of an Autonomous Red Light, Green Light Robot for Interactions with Children with Disabilities" 
-date: 2024-10-12
+date: 2024-03-15
 lastmod: 2024-07-12
 author: ["Susan Liu","Ameer Helmi","Naomi T. Fitter"]
 description: "Describes the design and initial testing of the red light, green light mode for GoBot." 
