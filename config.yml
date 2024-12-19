@@ -53,12 +53,12 @@ params:
               url: papers/
             - name: Projects
               url: projects/
+            - name: Resume
+              url: AmeerHelmi_Resume.pdf
+            - name: Curriculum Vitae
+              url: AmeerHelmi_CV.pdf
 
     socialIcons:
-        - name: CV
-          url: AmeerHelmi_CV.pdf
-        - name: Resume
-          url: AmeerHelmi_Resume.pdf
         - name: Email
           url: mailto:ameer.helmi@gmail.com
         - name: Google Scholar
@@ -71,8 +71,8 @@ params:
     assets:
         disableScrollBarStyle: true
     cover:
-        hiddenInList: True
-        hiddenInSingle: true
+        hiddenInList: false
+        hiddenInSingle: false
     label:
       text: "Ameer Helmi"
       icon: favicon.ico

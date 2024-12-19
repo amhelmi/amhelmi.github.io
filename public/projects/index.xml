@@ -2,38 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Ameer Helmi</title>
-    <link>amhelmi.github.io/projects/</link>
+    <link>//localhost:1313/projects/</link>
     <description>Recent content in Projects on Ameer Helmi</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="amhelmi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>GoBot</title>
-      <link>amhelmi.github.io/projects/gobot/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>amhelmi.github.io/projects/gobot/</guid>
+      <title>Behavior Trees for Child-Robot Interaction</title>
+      <link>//localhost:1313/projects/behavior-trees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/behavior-trees/</guid>
       <description>Describes the design and initial testing of the red light, green light mode for GoBot.</description>
     </item>
     <item>
-      <title>Mad Libs Generator App</title>
-      <link>amhelmi.github.io/projects/mad-libs/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>amhelmi.github.io/projects/mad-libs/</guid>
-      <description>Describes the design and initial testing of the red light, green light mode for GoBot.</description>
+      <title>GoBot: Modular Hardware, Variable Autonomy, Promoting Physical Activity</title>
+      <link>//localhost:1313/projects/gobot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/gobot/</guid>
+      <description>GoBot Project Design and Testing.</description>
+    </item>
+    <item>
+      <title>Make your own mad libs with ChatGPT</title>
+      <link>//localhost:1313/projects/mad-libs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/mad-libs/</guid>
+      <description>App to create your own mad libs or use ChatGPT to generate them.</description>
     </item>
     <item>
       <title>Thermal Imaging</title>
-      <link>amhelmi.github.io/projects/thermal-imaging/</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>amhelmi.github.io/projects/thermal-imaging/</guid>
-      <description>Describes the design and initial testing of the red light, green light mode for GoBot.</description>
-    </item>
-    <item>
-      <title>Behavior Trees for Child-Robot Interaction</title>
-      <link>amhelmi.github.io/projects/behavior-trees/</link>
-      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>amhelmi.github.io/projects/behavior-trees/</guid>
+      <link>//localhost:1313/projects/thermal-imaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/thermal-imaging/</guid>
       <description>Describes the design and initial testing of the red light, green light mode for GoBot.</description>
     </item>
   </channel>

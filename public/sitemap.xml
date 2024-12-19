@@ -2,48 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>amhelmi.github.io/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/projects/gobot/</loc>
+    <loc>//localhost:1313/projects/mad-libs/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/projects/mad-libs/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/projects/</loc>
+    <loc>//localhost:1313/projects/thermal-imaging/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/projects/thermal-imaging/</loc>
+    <loc>//localhost:1313/papers/icsr2024/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/papers/icsr2024/</loc>
+    <loc>//localhost:1313/papers/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/papers/</loc>
+    <loc>//localhost:1313/projects/behavior-trees/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/projects/behavior-trees/</loc>
+    <loc>//localhost:1313/papers/jtehm2023/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/papers/jtehm2023/</loc>
+    <loc>//localhost:1313/papers/hri2024/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/papers/hri2024/</loc>
+    <loc>//localhost:1313/papers/iros2023/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/papers/iros2023/</loc>
+    <loc>//localhost:1313/papers/icorr2023/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/papers/icorr2023/</loc>
+    <loc>//localhost:1313/papers/icsr2022/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/papers/icsr2022/</loc>
+    <loc>//localhost:1313/papers/icra2022/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/papers/icra2022/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/projects/gobot/</loc>
   </url><url>
-    <loc>amhelmi.github.io/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>
