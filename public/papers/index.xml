@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Papers on Ameer Helmi</title>
-    <link>//localhost:1313/papers/</link>
+    <link>amhelmi.github.io/papers/</link>
     <description>Recent content in Papers on Ameer Helmi</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="amhelmi.github.io/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clinician Perspectives on Autonomy and Trust in Robots for Pediatric Interventions</title>
-      <link>//localhost:1313/papers/icsr2024/</link>
+      <link>amhelmi.github.io/papers/icsr2024/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/papers/icsr2024/</guid>
+      <guid>amhelmi.github.io/papers/icsr2024/</guid>
       <description>Describes a study where pediatric clinicians were interviewed regarding their opinions about using assistive robots and levels of autonomy for robots interacting with their patients.</description>
     </item>
     <item>
       <title>GoBot Go! Using a Custom Assistive Robot to Promote Physical Activity in Children</title>
-      <link>//localhost:1313/papers/jtehm2023/</link>
+      <link>amhelmi.github.io/papers/jtehm2023/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/papers/jtehm2023/</guid>
+      <guid>amhelmi.github.io/papers/jtehm2023/</guid>
       <description>Describes the expanded results of a study where GoBot interacted with 8 children over two months of weekly sessions and showed how the robot improved the children&amp;#39;s physical activity levels.</description>
     </item>
     <item>
       <title>Pilot Observations of an Autonomous Red Light, Green Light Robot for Interactions with Children with Disabilities</title>
-      <link>//localhost:1313/papers/hri2024/</link>
+      <link>amhelmi.github.io/papers/hri2024/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/papers/hri2024/</guid>
+      <guid>amhelmi.github.io/papers/hri2024/</guid>
       <description>Describes the design and initial testing of the red light, green light mode for GoBot.</description>
     </item>
     <item>
       <title>Robottheory Fitness: GoBot’s Engagement Edge for Spurring Physical Activity in Young Children</title>
-      <link>//localhost:1313/papers/iros2023/</link>
+      <link>amhelmi.github.io/papers/iros2023/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/papers/iros2023/</guid>
+      <guid>amhelmi.github.io/papers/iros2023/</guid>
       <description>Describes the results of a study where GoBot interacted with 8 children over two months of weekly sessions and showed how the robot improved the children&amp;#39;s physical activity levels.</description>
     </item>
     <item>
       <title>Harnessing the Power of Movement: A Body-Weight Support System &amp; Assistive Robot Case Study</title>
-      <link>//localhost:1313/papers/icorr2023/</link>
+      <link>amhelmi.github.io/papers/icorr2023/</link>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/papers/icorr2023/</guid>
+      <guid>amhelmi.github.io/papers/icorr2023/</guid>
       <description>Describes the case study conducted with GoBot, Shelbytron, and the Body-Weight-Support-Harness.</description>
     </item>
     <item>
       <title>A Model Child? Behavior Models for Simulated Infant-Robot Interaction</title>
-      <link>//localhost:1313/papers/icsr2022/</link>
+      <link>amhelmi.github.io/papers/icsr2022/</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/papers/icsr2022/</guid>
+      <guid>amhelmi.github.io/papers/icsr2022/</guid>
       <description>Describes the design and initial evaluation of a simulator that models infant behavior through an annotation method that evaluates infant attention in real-world studies.</description>
     </item>
     <item>
       <title>Let Them Have Bubbles! Filling Gaps in Toy-Like Behaviors for Child-Robot Interaction</title>
-      <link>//localhost:1313/papers/icra2022/</link>
+      <link>amhelmi.github.io/papers/icra2022/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/papers/icra2022/</guid>
+      <guid>amhelmi.github.io/papers/icra2022/</guid>
       <description>Describes a review of Fisher-Price toys for developmental capabilities and an analysis of an initial child-robot interaction study.</description>
     </item>
   </channel>

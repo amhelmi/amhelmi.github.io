@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Ameer Helmi</title>
-    <link>//localhost:1313/projects/</link>
+    <link>amhelmi.github.io/projects/</link>
     <description>Recent content in Projects on Ameer Helmi</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="amhelmi.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Behavior Trees for Child-Robot Interaction</title>
-      <link>//localhost:1313/projects/behavior-trees/</link>
+      <link>amhelmi.github.io/projects/behavior-trees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/behavior-trees/</guid>
+      <guid>amhelmi.github.io/projects/behavior-trees/</guid>
       <description>Behavior Trees for Robot Control and Child Behavior Modeling.</description>
     </item>
     <item>
       <title>Gardening Automation</title>
-      <link>//localhost:1313/projects/gardening-automation/</link>
+      <link>amhelmi.github.io/projects/gardening-automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/gardening-automation/</guid>
+      <guid>amhelmi.github.io/projects/gardening-automation/</guid>
       <description>Sensing and Automation of Plant Watering.</description>
     </item>
     <item>
       <title>GoBot: Modular Hardware, Variable Autonomy, Promoting Physical Activity</title>
-      <link>//localhost:1313/projects/gobot/</link>
+      <link>amhelmi.github.io/projects/gobot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/gobot/</guid>
+      <guid>amhelmi.github.io/projects/gobot/</guid>
       <description>GoBot Project Design and Testing.</description>
     </item>
     <item>
       <title>Make your own mad libs with ChatGPT</title>
-      <link>//localhost:1313/projects/mad-libs/</link>
+      <link>amhelmi.github.io/projects/mad-libs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/mad-libs/</guid>
+      <guid>amhelmi.github.io/projects/mad-libs/</guid>
       <description>App to create your own mad libs or use ChatGPT to generate them.</description>
     </item>
     <item>
       <title>Thermal Imaging</title>
-      <link>//localhost:1313/projects/thermal-imaging/</link>
+      <link>amhelmi.github.io/projects/thermal-imaging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/projects/thermal-imaging/</guid>
+      <guid>amhelmi.github.io/projects/thermal-imaging/</guid>
       <description>Gauging child affect through thermal imaging.</description>
     </item>
   </channel>
