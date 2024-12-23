@@ -3,7 +3,7 @@ title: "Gardening Automation"
 description: "Sensing and Automation of Plant Watering." 
 summary: "Sensing and Automation of Plant Watering." 
 cover:
-    image: "covergarden.png"
+    image: "/images/covergarden.png"
     alt: "Mama Sandra"
     relative: false
 

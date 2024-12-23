@@ -3,7 +3,7 @@ title: "GoBot: Modular Hardware, Variable Autonomy, Promoting Physical Activity"
 description: "GoBot Project Design and Testing." 
 summary: "GoBot Project Design and Testing." 
 cover:
-    image: "coverbot.png"
+    image: "/images/coverbot.png"
     alt: "GoBot"
     relative: false
 
