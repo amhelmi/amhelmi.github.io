@@ -12,7 +12,7 @@ cover:
 ##### Description
 I love to garden and have spent the past several years learning more and more about plants, both indoor and outdoor. While many DIY automation systems exist for monitoring and watering plants, I wanted to develop my own to be able to tailor it to my needs.
 
-My current favorite plant is the peperomia plant. 
+My current favorite plant is the peperomia obtusifolia plant. 
 
 <img src="housing.jpg" alt="housing" width="400"/>
 
