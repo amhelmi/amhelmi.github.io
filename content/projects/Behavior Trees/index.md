@@ -1,7 +1,8 @@
 ---
 title: "Behavior Trees for Child-Robot Interaction" 
 description: "Behavior Trees for Robot Control and Child Behavior Modeling." 
-summary: "Behavior Trees for Robot Control and Child Behavior Modeling." 
+summary: "Behavior Trees for Robot Control and Child Behavior Modeling."
+weight: 5 
 cover:
     image: "/images/coverbt.png"
     alt: "BTs"

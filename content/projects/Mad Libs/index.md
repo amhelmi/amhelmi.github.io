@@ -1,7 +1,8 @@
 ---
 title: "Make your own mad libs with ChatGPT" 
 description: "App to create your own mad libs or use ChatGPT to generate them." 
-summary: "App to create your own mad libs or use ChatGPT to generate them." 
+summary: "App to create your own mad libs or use ChatGPT to generate them."
+weight: 2
 cover:
     image: "/images/coverapp.png"
     alt: "mad libs app"

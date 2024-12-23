@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>amhelmi.github.io/projects/gobot/</loc>
+  </url><url>
+    <loc>amhelmi.github.io/projects/mad-libs/</loc>
+  </url><url>
+    <loc>amhelmi.github.io/projects/thermal-imaging/</loc>
+  </url><url>
+    <loc>amhelmi.github.io/projects/gardening-automation/</loc>
+  </url><url>
+    <loc>amhelmi.github.io/projects/behavior-trees/</loc>
+  </url><url>
     <loc>amhelmi.github.io/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,20 +39,10 @@
     <loc>amhelmi.github.io/papers/icra2022/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>amhelmi.github.io/projects/behavior-trees/</loc>
-  </url><url>
     <loc>amhelmi.github.io/epic/</loc>
-  </url><url>
-    <loc>amhelmi.github.io/projects/gardening-automation/</loc>
-  </url><url>
-    <loc>amhelmi.github.io/projects/gobot/</loc>
-  </url><url>
-    <loc>amhelmi.github.io/projects/mad-libs/</loc>
   </url><url>
     <loc>amhelmi.github.io/projects/</loc>
   </url><url>
     <loc>amhelmi.github.io/tags/</loc>
-  </url><url>
-    <loc>amhelmi.github.io/projects/thermal-imaging/</loc>
   </url>
 </urlset>

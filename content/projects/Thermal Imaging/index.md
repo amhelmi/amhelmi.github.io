@@ -1,7 +1,8 @@
 ---
 title: "Thermal Imaging" 
 description: "Gauging child affect through thermal imaging." 
-summary: "Gauging child affect through thermal imaging." 
+summary: "Gauging child affect through thermal imaging."
+weight: 3
 cover:
     image: "/images/coverthermal.jpg"
     alt: "thermal imaging"

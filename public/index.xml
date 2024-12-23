@@ -9,6 +9,41 @@
     <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="amhelmi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>GoBot: Modular Hardware, Variable Autonomy, Promoting Physical Activity</title>
+      <link>amhelmi.github.io/projects/gobot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>amhelmi.github.io/projects/gobot/</guid>
+      <description>GoBot Project Design and Testing.</description>
+    </item>
+    <item>
+      <title>Make your own mad libs with ChatGPT</title>
+      <link>amhelmi.github.io/projects/mad-libs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>amhelmi.github.io/projects/mad-libs/</guid>
+      <description>App to create your own mad libs or use ChatGPT to generate them.</description>
+    </item>
+    <item>
+      <title>Thermal Imaging</title>
+      <link>amhelmi.github.io/projects/thermal-imaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>amhelmi.github.io/projects/thermal-imaging/</guid>
+      <description>Gauging child affect through thermal imaging.</description>
+    </item>
+    <item>
+      <title>Gardening Automation</title>
+      <link>amhelmi.github.io/projects/gardening-automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>amhelmi.github.io/projects/gardening-automation/</guid>
+      <description>Sensing and Automation of Plant Watering.</description>
+    </item>
+    <item>
+      <title>Behavior Trees for Child-Robot Interaction</title>
+      <link>amhelmi.github.io/projects/behavior-trees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>amhelmi.github.io/projects/behavior-trees/</guid>
+      <description>Behavior Trees for Robot Control and Child Behavior Modeling.</description>
+    </item>
+    <item>
       <title>Clinician Perspectives on Autonomy and Trust in Robots for Pediatric Interventions</title>
       <link>amhelmi.github.io/papers/icsr2024/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
@@ -58,13 +93,6 @@
       <description>Describes a review of Fisher-Price toys for developmental capabilities and an analysis of an initial child-robot interaction study.</description>
     </item>
     <item>
-      <title>Behavior Trees for Child-Robot Interaction</title>
-      <link>amhelmi.github.io/projects/behavior-trees/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>amhelmi.github.io/projects/behavior-trees/</guid>
-      <description>Behavior Trees for Robot Control and Child Behavior Modeling.</description>
-    </item>
-    <item>
       <title>Epic Experience</title>
       <link>amhelmi.github.io/epic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -94,34 +122,6 @@
 &lt;li&gt;Northwest Community Hospital (2014)&lt;/li&gt;
 &lt;li&gt;Baptist Memorial Health (2013 - 2014)&lt;/li&gt;
 &lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Gardening Automation</title>
-      <link>amhelmi.github.io/projects/gardening-automation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>amhelmi.github.io/projects/gardening-automation/</guid>
-      <description>Sensing and Automation of Plant Watering.</description>
-    </item>
-    <item>
-      <title>GoBot: Modular Hardware, Variable Autonomy, Promoting Physical Activity</title>
-      <link>amhelmi.github.io/projects/gobot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>amhelmi.github.io/projects/gobot/</guid>
-      <description>GoBot Project Design and Testing.</description>
-    </item>
-    <item>
-      <title>Make your own mad libs with ChatGPT</title>
-      <link>amhelmi.github.io/projects/mad-libs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>amhelmi.github.io/projects/mad-libs/</guid>
-      <description>App to create your own mad libs or use ChatGPT to generate them.</description>
-    </item>
-    <item>
-      <title>Thermal Imaging</title>
-      <link>amhelmi.github.io/projects/thermal-imaging/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>amhelmi.github.io/projects/thermal-imaging/</guid>
-      <description>Gauging child affect through thermal imaging.</description>
     </item>
   </channel>
 </rss>
