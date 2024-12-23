@@ -1,4 +1,4 @@
-baseURL: "amhelmi.github.io"
+abaseURL: "amhelmi.github.io"
 title: Ameer Helmi
 theme: PaperMod
 
@@ -46,8 +46,9 @@ params:
     profileMode:
           enabled: true
           title: Ameer Helmi, Ph.D.
-          subtitle: "Roboticist and Healthcare Specialist with extensive experience in 
-          **human-robot interaction**, **robot design**, **customer service**, and **Epic EMR build**. 
+          subtitle: "Robotics and Healthcare Specialist with extensive experience in 
+          **human-robot interaction**, **robot hardware and software design**, **customer service**, and **Epic EMR build**. \n
+
           My dissertation found evidence that modular assistive robots can promote physical activity for children with and without disabilities.
 
           I have my Ph.D. in Robotics from Oregon State University with 5+ years of robot and study design experience. 
