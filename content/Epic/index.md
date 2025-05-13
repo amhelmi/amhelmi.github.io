@@ -16,7 +16,7 @@ title: "Epic Experience"
 
 #### Experience
 
-Currently working as a Senior Consultant for Honeydew Consulting. Working with Mass General Brigham as a CP build consultant.
+Currently working as a Senior Consultant for *Honeydew Consulting*. Working with Mass General Brigham as a CP build consultant.
 
 Prior work with Beaker Anatomic Pathology, Bridges Interfaces, Order Transmittal, charging, microbiology, and Cytogenetics and Molecular Diagnostics.
 
