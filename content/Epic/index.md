@@ -16,7 +16,7 @@ title: "Epic Experience"
 
 #### Experience
 
-Currently working as a systems analyst III for Lakeland Regional Health supporting both Epic and Cerner.
+Currently working as a Senior Consultant for Honeydew Consulting. Working with Mass General Brigham as a CP build consultant.
 
 Prior work with Beaker Anatomic Pathology, Bridges Interfaces, Order Transmittal, charging, microbiology, and Cytogenetics and Molecular Diagnostics.
 
@@ -27,8 +27,8 @@ Former Epic Technical Services rep and Boost consultant.
 
 
 #### Customers worked with
-
-- Lakeland Regional Health (2024 - Present)
+- Mass General Brigham (2025-Present)
+- Lakeland Regional Health (2024)
 - Virtua Health (2018)
 - CHI (2017 - 2018)
 - Yale New Haven Health (2016 - 2017)
